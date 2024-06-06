@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e66eff8b1aa6bed4aaf82dafc88c7119
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eggPrefab: {fileID: 4399151660713463575, guid: c3810611b21700946b5588d7d0805480, type: 3}
+  - chickPrefab: {fileID: 7270389531139978758, guid: 64af1ce0185cd8046be482be289b86ce, type: 3}
+  - henPrefab: {fileID: 9220629701215815747, guid: 01612f0f2b86b488cb860cef7526c30b, type: 3}
+  - roosterPrefab: {fileID: 230588659315444981, guid: d13784302855cb34ca99bffa60ea9258, type: 3}
+  - eggCountText: {instanceID: 0}
+  - chickCountText: {instanceID: 0}
+  - henCountText: {instanceID: 0}
+  - roosterCountText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
